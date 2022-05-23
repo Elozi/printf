@@ -21,7 +21,7 @@ converted for output.
 
 ## Authors
 
-* Abigail Ogbogo <[](https://github.com/Elozi)
+* Abigail Ogbogo <[Elozi](https://github.com/Elozi)
 * Abraham Ezekiel <[success6396](https://github.com/success6396)
 
 <p align="center">
